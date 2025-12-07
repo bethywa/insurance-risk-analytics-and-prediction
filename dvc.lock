@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python src/eda_script.py
+    deps:
+    - path: data/raw/MachineLearningRating_v3.txt
+      hash: md5
+      md5: f6b7009b68ae21372b7deca9307fbb23
+      size: 529363713
+    - path: src/eda_script.py
+      hash: md5
+      md5: ac2f562798edd4c3b9b152eff8bbd1a2
+      size: 1463
+    outs:
+    - path: data/processed/insurance_cleaned.csv
+      hash: md5
+      md5: 5bac6489e4a528c7e1451fddaeeee594
+      size: 133492965
