@@ -5,18 +5,21 @@ GitHub Branch: task-1
 Performed comprehensive Exploratory Data Analysis
 Created visualizations for trends and risk profiling
 Analyzed monthly premiums vs claims
+
 ✅ Task 2: Data Version Control with DVC
 GitHub Branch: task-2
 
 Implemented DVC for data versioning
 Tracked cleaned insurance data (127MB)
 Configured .gitignore for large files
+
 ✅ Task 3: A/B Hypothesis Testing
 GitHub Branch: task-3
 
 Tested risk differences across provinces and postal codes
 Analyzed claim frequency and severity
 Generated statistical reports and visualizations
+
 ✅ Task 4: Risk Modeling & Premium Calculation
 GitHub Branch: task-4
 
