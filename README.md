@@ -61,6 +61,9 @@ Check reports/regression_metrics.csv for detailed performance metrics.
 
 # 📝 Requirements
 Python 3.8+
+
 DVC (for data versioning)
+
 Jupyter Notebook
+
 See requirements.txt for full dependency list
