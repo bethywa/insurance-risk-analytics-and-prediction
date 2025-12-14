@@ -1,3 +1,5 @@
-models/
+# Model files
+models/regression/*.joblib
+models/preprocessor.joblib
 
 .env/ 
